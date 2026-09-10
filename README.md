@@ -185,18 +185,6 @@ My research explores how AI-generated music has developed from traditional rule-
 
 ---
 
-## GitHub activity
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=RagineeS&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RagineeS&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
 ## Contribution streak
 
 <div align="center">
@@ -207,19 +195,9 @@ My research explores how AI-generated music has developed from traditional rule-
 
 ---
 
-## A small look at my coding year
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=RagineeS&theme=tokyo-night&hide_border=true" />
-
-</div>
-
----
-
 ## Goals I'm working toward
 
-* [ ] Reach **500+ LeetCode problems**
+* [ ] Reach **1K+ LeetCode problems**
 * [ ] Become stronger at advanced DSA and dynamic programming
 * [ ] Build and deploy more complete AI-powered applications
 * [ ] Contribute to open-source projects
