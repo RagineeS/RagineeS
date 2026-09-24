@@ -182,17 +182,6 @@ My research explores how AI-generated music has developed from traditional rule-
 * 🚀 MSME Hackathon 4.0 — Third-round qualifier
 * 🏅 Hyperspace National Hackathon — Top 500 finalist
 * 📚 Research publication in AI-generated music
-
----
-
-## Contribution streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=RagineeS&theme=tokyonight&hide_border=true" />
-
-</div>
-
 ---
 
 ## Goals I'm working toward
